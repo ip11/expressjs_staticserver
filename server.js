@@ -1,6 +1,12 @@
 var express = require('express');
 var app = express();
 
+
+//var serveIndex = require('serve-index')
+//Implement Serve Index for directory listing like Apache
+
+
+
 // Fetch index file automatically
 // app.use(express.static(__dirname + '/static'));
 
