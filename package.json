@@ -1,0 +1,22 @@
+{
+  "name": "node-static-website",
+  "version": "1.0.0",
+  "description": "This a node application serving static website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iraviteja/node-static-website.git"
+  },
+  "author": "Ravi Teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iraviteja/node-static-website/issues"
+  },
+  "homepage": "https://github.com/iraviteja/node-static-website#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
